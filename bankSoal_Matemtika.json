@@ -1,0 +1,908 @@
+{
+  "matematika_sd": [
+    {
+      "question": "Hasil dari 15 + 25 adalah...",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah persegi memiliki sisi 5 cm. Berapa kelilingnya?",
+      "options": [
+        "15 cm",
+        "20 cm",
+        "25 cm",
+        "30 cm"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Angka 7 pada bilangan 7.890 menempati nilai...",
+      "options": [
+        "Satuan",
+        "Puluhan",
+        "Ratusan",
+        "Ribuan"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Berapa hasil dari 8 x 7?",
+      "options": [
+        "48",
+        "54",
+        "56",
+        "63"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bentuk pecahan dari 0.5 adalah...",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Pukul 09.00. Jarum panjang menunjuk ke angka...",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Hasil dari 50 - 17 adalah...",
+      "options": [
+        "23",
+        "33",
+        "37",
+        "43"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Ada 30 permen dibagikan kepada 5 anak. Berapa permen yang didapat setiap anak?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Alat ukur yang tepat untuk mengukur berat badan adalah...",
+      "options": [
+        "Penggaris",
+        "Meteran",
+        "Timbangan",
+        "Jam"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "2 jam + 30 menit = ... menit",
+      "options": [
+        "90 menit",
+        "120 menit",
+        "150 menit",
+        "180 menit"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hasil dari 12 + 18 adalah...",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah persegi panjang memiliki panjang 6 cm dan lebar 4 cm. Berapa luasnya?",
+      "options": [
+        "10 cm²",
+        "20 cm²",
+        "24 cm²",
+        "30 cm²"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Angka 4 pada bilangan 4.567 menempati nilai...",
+      "options": [
+        "Satuan",
+        "Puluhan",
+        "Ratusan",
+        "Ribuan"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Berapa hasil dari 9 x 6?",
+      "options": [
+        "45",
+        "48",
+        "54",
+        "60"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bentuk pecahan dari 0.25 adalah...",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Pukul 03.00. Jarum pendek menunjuk ke angka...",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Hasil dari 45 - 19 adalah...",
+      "options": [
+        "16",
+        "26",
+        "36",
+        "46"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Ada 24 pensil dibagikan kepada 6 anak. Berapa pensil yang didapat setiap anak?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Alat ukur yang tepat untuk mengukur panjang meja adalah...",
+      "options": [
+        "Timbangan",
+        "Jam",
+        "Penggaris",
+        "Termometer"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "3 jam = ... menit",
+      "options": [
+        "120 menit",
+        "150 menit",
+        "180 menit",
+        "210 menit"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hasil dari 20 + 15 adalah...",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah segitiga memiliki alas 8 cm dan tinggi 5 cm. Berapa luasnya?",
+      "options": [
+        "13 cm²",
+        "20 cm²",
+        "40 cm²",
+        "80 cm²"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Angka 2 pada bilangan 12.345 menempati nilai...",
+      "options": [
+        "Satuan",
+        "Puluhan",
+        "Ratusan",
+        "Ribuan"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Berapa hasil dari 7 x 8?",
+      "options": [
+        "49",
+        "56",
+        "63",
+        "70"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Bentuk desimal dari 3/4 adalah...",
+      "options": [
+        "0.5",
+        "0.6",
+        "0.75",
+        "0.8"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Pukul 06.00. Jarum panjang menunjuk ke angka...",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Hasil dari 60 - 25 adalah...",
+      "options": [
+        "25",
+        "35",
+        "45",
+        "55"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Ada 42 buah apel dibagikan kepada 7 anak. Berapa apel yang didapat setiap anak?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Alat ukur yang tepat untuk mengukur waktu adalah...",
+      "options": [
+        "Penggaris",
+        "Timbangan",
+        "Jam",
+        "Meteran"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "1 jam + 45 menit = ... menit",
+      "options": [
+        "45 menit",
+        "60 menit",
+        "105 menit",
+        "120 menit"
+      ],
+      "correctAnswer": "C"
+    }
+  ],
+  "matematika_smp": [
+    {
+      "question": "Jika 2x + 4 = 10, maka nilai x adalah...",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Rumus luas lingkaran adalah...",
+      "options": [
+        "π × r²",
+        "2 × π × r",
+        "π × d",
+        "s × s"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Bentuk sederhana dari (a²)³ adalah...",
+      "options": [
+        "a⁵",
+        "a⁶",
+        "a⁸",
+        "a⁹"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Teorema Pythagoras berlaku pada segitiga...",
+      "options": [
+        "Sama sisi",
+        "Sama kaki",
+        "Lancip",
+        "Siku-siku"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Hasil dari -5 + (-10) adalah...",
+      "options": [
+        "-5",
+        "5",
+        "-15",
+        "15"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Gradien garis y = 3x - 5 adalah...",
+      "options": [
+        "3",
+        "5",
+        "-5",
+        "1/3"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah dadu dilempar, peluang muncul mata dadu ganjil adalah...",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Volume balok dengan p=5, l=3, t=2 adalah...",
+      "options": [
+        "10",
+        "15",
+        "30",
+        "45"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Faktorisasi dari x² - 9 adalah...",
+      "options": [
+        "(x-3)(x-3)",
+        "(x+3)(x+3)",
+        "(x-3)(x+3)",
+        "(x-9)(x+1)"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Suku ke-5 dari barisan aritmatika 2, 5, 8, ... adalah",
+      "options": [
+        "11",
+        "14",
+        "17",
+        "20"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika 3y - 6 = 12, maka nilai y adalah...",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Rumus keliling lingkaran adalah...",
+      "options": [
+        "π × r²",
+        "2 × π × r",
+        "π × d²",
+        "s × s"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Bentuk sederhana dari b^4 / b^2 adalah...",
+      "options": [
+        "b^2",
+        "b^6",
+        "b^8",
+        "b^1"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Hasil dari 4 - (-7) adalah...",
+      "options": [
+        "-3",
+        "3",
+        "11",
+        "-11"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Persamaan garis melalui titik (0,2) dengan gradien 4 adalah...",
+      "options": [
+        "y = 2x + 4",
+        "y = 4x + 2",
+        "y = 4x - 2",
+        "y = 2x - 4"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Peluang muncul angka prima pada dadu adalah...",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Luas permukaan kubus dengan sisi 3 cm adalah...",
+      "options": [
+        "18 cm²",
+        "27 cm²",
+        "36 cm²",
+        "54 cm²"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Faktorisasi dari x² + 5x + 6 adalah...",
+      "options": [
+        "(x+2)(x+3)",
+        "(x+1)(x+6)",
+        "(x-2)(x-3)",
+        "(x-1)(x-6)"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Suku ke-4 dari barisan geometri 3, 6, 12, ... adalah",
+      "options": [
+        "18",
+        "24",
+        "36",
+        "48"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Nilai x dari persamaan 5x = 25 adalah...",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Volume bola dengan jari-jari r adalah...",
+      "options": [
+        "π r²",
+        "2 π r",
+        "4/3 π r³",
+        "4 π r²"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bentuk sederhana dari (2a)^3 adalah...",
+      "options": [
+        "6a",
+        "8a",
+        "8a³",
+        "6a³"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hasil dari -8 x 3 adalah...",
+      "options": [
+        "-24",
+        "24",
+        "-11",
+        "11"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Gradien garis y = -2x + 1 adalah...",
+      "options": [
+        "1",
+        "2",
+        "-2",
+        "-1"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Peluang muncul mata dadu lebih dari 4 adalah...",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Luas segitiga dengan alas 10 cm dan tinggi 5 cm adalah...",
+      "options": [
+        "15 cm²",
+        "25 cm²",
+        "50 cm²",
+        "100 cm²"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Faktorisasi dari 2x² + 4x adalah...",
+      "options": [
+        "2x(x+2)",
+        "x(2x+4)",
+        "2(x²+2x)",
+        "Semua benar"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Beda dari barisan aritmatika 1, 4, 7, ... adalah",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hasil dari 10 / (-2) adalah...",
+      "options": [
+        "5",
+        "-5",
+        "8",
+        "-8"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Rumus luas trapesium adalah...",
+      "options": [
+        "1/2 x alas x tinggi",
+        "1/2 x (a+b) x t",
+        "a x b",
+        "π r²"
+      ],
+      "correctAnswer": "B"
+    }
+  ],
+  "matematika_sma": [
+    {
+      "question": "Turunan pertama dari f(x) = 3x² + 2x - 1 adalah...",
+      "options": [
+        "6x + 2",
+        "3x + 2",
+        "6x - 1",
+        "3x² + 2"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Nilai dari sin(90°) adalah...",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "∞"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Integral dari ∫ 2x dx adalah...",
+      "options": [
+        "2x² + C",
+        "x² + C",
+        "2 + C",
+        "x + C"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika log₂(8) = x, maka x adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Matriks A = [[1, 2], [3, 4]]. Determinan A adalah...",
+      "options": [
+        "2",
+        "-2",
+        "10",
+        "-10"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Pusat lingkaran x² + y² - 4x + 6y - 3 = 0 adalah...",
+      "options": [
+        "(2, -3)",
+        "(-2, 3)",
+        "(4, -6)",
+        "(-4, 6)"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Nilai dari 5! (5 faktorial) adalah...",
+      "options": [
+        "25",
+        "60",
+        "100",
+        "120"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Batas (limit) dari x mendekati 2 untuk (x² - 4)/(x - 2) adalah...",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "Tidak terdefinisi"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "cos(A-B) = ...",
+      "options": [
+        "cosA cosB + sinA sinB",
+        "cosA cosB - sinA sinB",
+        "sinA cosB + cosA sinB",
+        "sinA cosB - cosA sinB"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Modus dari data 2, 3, 3, 4, 5, 5, 5, 6 adalah...",
+      "options": [
+        "3",
+        "4",
+        "4.5",
+        "5"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Turunan dari f(x) = sin(x) adalah...",
+      "options": [
+        "cos(x)",
+        "-sin(x)",
+        "sin(x)",
+        "-cos(x)"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Nilai cos(0°) adalah...",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "∞"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Integral dari ∫ cos(x) dx adalah...",
+      "options": [
+        "sin(x) + C",
+        "-sin(x) + C",
+        "cos(x) + C",
+        "-cos(x) + C"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Jika log₁₀(100) = x, maka x adalah...",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Matriks identitas 2x2 adalah...",
+      "options": [
+        "[[0,1],[1,0]]",
+        "[[1,0],[0,1]]",
+        "[[1,1],[1,1]]",
+        "[[0,0],[0,0]]"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jari-jari lingkaran x² + y² = 25 adalah...",
+      "options": [
+        "5",
+        "25",
+        "10",
+        "√25"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Nilai dari 4! adalah...",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "96"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Limit x mendekati 0 dari sin(x)/x adalah...",
+      "options": [
+        "0",
+        "1",
+        "∞",
+        "-1"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "sin(A+B) = ...",
+      "options": [
+        "sinA cosB + cosA sinB",
+        "sinA cosB - cosA sinB",
+        "cosA cosB + sinA sinB",
+        "cosA cosB - sinA sinB"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Median dari data 1,2,3,4,5 adalah...",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Turunan dari f(x) = e^x adalah...",
+      "options": [
+        "e^x",
+        "ln(x)",
+        "1/x",
+        "x e^{x-1}"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Nilai tan(45°) adalah...",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "√3"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Integral dari ∫ 1/x dx adalah...",
+      "options": [
+        "x + C",
+        "ln|x| + C",
+        "e^x + C",
+        "1/x + C"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika log₃(27) = x, maka x adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "9"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Invers matriks [[1,0],[0,1]] adalah...",
+      "options": [
+        "[[0,1],[1,0]]",
+        "[[1,0],[0,1]]",
+        "[[1,1],[0,0]]",
+        "Tidak ada"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Persamaan parabola y = x² memiliki fokus di...",
+      "options": [
+        "(0,0)",
+        "(0,1/4)",
+        "(1/4,0)",
+        "(0,-1/4)"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Nilai dari 6! adalah...",
+      "options": [
+        "120",
+        "360",
+        "720",
+        "1440"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Limit x mendekati ∞ dari 1/x adalah...",
+      "options": [
+        "0",
+        "1",
+        "∞",
+        "-∞"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "cos(2A) = ...",
+      "options": [
+        "2cos²A - 1",
+        "sin²A - cos²A",
+        "2sinA cosA",
+        "1 - 2sin²A"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Rata-rata dari data 10, 20, 30 adalah...",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "60"
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}
