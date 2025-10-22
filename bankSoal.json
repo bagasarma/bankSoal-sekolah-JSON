@@ -904,10 +904,9 @@
       ],
       "correctAnswer": "B"
     }
-  ]
+  ],
 
-},
-{
+
   "ipa_sd": [
     {
       "question": "Bagian tumbuhan yang berfungsi menyerap air dari tanah adalah...",
@@ -1813,9 +1812,8 @@
       ],
       "correctAnswer": "A"
     }
-  ]
-},
-{
+  ],
+
   "bahasa_indonesia_sd": [
     {
       "question": "Kata yang benar ejaannya adalah...",
@@ -2721,9 +2719,7 @@
       ],
       "correctAnswer": "A"
     }
-  ]
-},
-{
+  ],
   "bahasa_inggris_sd": [
     {
       "question": "What is the color of the sky on a clear day?",
@@ -3631,3 +3627,4 @@
     }
   ]
 }
+
